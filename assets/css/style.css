@@ -334,7 +334,7 @@ MAIN CONTENT
 
 div.backgroundHangman {
 
-  background: url(../images/city-h-c-300-305-2.jpg);
+  background: url(..assets/images/city-h-c-300-305-2.jpg);
 
 	 width: 300px; 
 
@@ -346,11 +346,11 @@ div.backgroundHangman {
 
 div.backgroundRpg {
 
-  background: url(../images/city-h-c-300-305-7.jpg);
+  background: url(..assets/images/city-h-c-300-305-7.jpg.jpg);
 
-  width: 300px; 
+     width: 300px; 
 
-	height: 305px;
+    height: 305px;
 
 }
 
@@ -358,9 +358,9 @@ div.backgroundRpg {
 
 div.backgroundTrivia {
 
-  background: url(../images/city-h-c-300-305-9.jpg);
+  background: url(..assets/images/city-h-c-300-305-9.jpg);
 
-  width: 300px; 
+     width: 300px; 
 
 	height: 305px;
 
@@ -372,9 +372,9 @@ div.backgroundTrivia {
 
 div.backgroundRutgers {
 
-  background: url(../images/city-h-c-300-305-10.jpg);
+  background: url(..images/city-h-c-300-305-10.jpg);
 
-  width: 300px; 
+     width: 300px; 
 
 	height: 305px;
 
@@ -386,7 +386,7 @@ div.backgroundRutgers {
 
 div.backgroundRockPaperScissors {
 
-  background: url(../images/technics-h-c-300-305-4.jpg);
+  background: url(..images/technics-h-c-300-305-4.jpg);
 
   width: 300px; 
 
